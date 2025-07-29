@@ -13,4 +13,11 @@ Install both with:
 
 ```bash
 pip install qrcode[pil]
- 
+```
+
+Run the script with:
+
+```bash
+python3 generate_qrcode.py "your text or URL here"
+```
+
